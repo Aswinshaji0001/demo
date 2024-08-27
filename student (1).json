@@ -1,0 +1,264 @@
+[{
+  "_id": {
+    "$oid": "66cd28dfb2164277b62710bc"
+  },
+  "name": "Aswin",
+  "rollno": "20",
+  "marks": {
+    "chm": "10",
+    "phy": "20",
+    "bio": "30"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cd28dfb2164277b62710bd"
+  },
+  "name": "Amal",
+  "rollno": "21",
+  "marks": {
+    "chm": "10",
+    "phy": "20",
+    "bio": "30"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cd2d32b2164277b62710be"
+  },
+  "name": "Aswini",
+  "rollno": "40",
+  "marks": {
+    "chm": "10",
+    "phy": "20",
+    "bio": "30"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cd2d32b2164277b62710bf"
+  },
+  "name": "Amala",
+  "rollno": "23",
+  "marks": {
+    "chm": "10",
+    "phy": "20",
+    "bio": "30"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cd2d32b2164277b62710c0"
+  },
+  "name": "Anandu",
+  "rollno": "22",
+  "marks": {
+    "chm": "25",
+    "phy": "20",
+    "bio": "40"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cd2d32b2164277b62710c1"
+  },
+  "name": "Amalu",
+  "rollno": "28",
+  "marks": {
+    "chm": "10",
+    "phy": "29",
+    "bio": "30"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cd2d32b2164277b62710c2"
+  },
+  "name": "Akhil",
+  "rollno": "30",
+  "marks": {
+    "chm": "10",
+    "phy": "20",
+    "bio": "30"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cd2d32b2164277b62710c3"
+  },
+  "name": "Aju",
+  "rollno": "35",
+  "marks": {
+    "chm": "10",
+    "phy": "20",
+    "bio": "30"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cd2d32b2164277b62710c4"
+  },
+  "name": "Hafiz",
+  "rollno": "35",
+  "marks": {
+    "chm": "10",
+    "phy": "20",
+    "bio": "30"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cd2d32b2164277b62710c5"
+  },
+  "name": "Felix",
+  "rollno": "38",
+  "marks": {
+    "chm": "10",
+    "phy": "20",
+    "bio": "30"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cd2d32b2164277b62710c6"
+  },
+  "name": "Akhila",
+  "rollno": "38",
+  "marks": {
+    "chm": "10",
+    "phy": "20",
+    "bio": "30"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cd2d32b2164277b62710c7"
+  },
+  "name": "Renju",
+  "rollno": "50",
+  "marks": {
+    "chm": "10",
+    "phy": "20",
+    "bio": "30"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cd2d32b2164277b62710c8"
+  },
+  "name": "Akku",
+  "rollno": "51",
+  "marks": {
+    "chm": "10",
+    "phy": "25",
+    "bio": "30"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cd2d32b2164277b62710c9"
+  },
+  "name": "Allu",
+  "rollno": "53",
+  "marks": {
+    "chm": "90",
+    "phy": "90",
+    "bio": "90"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cd2d32b2164277b62710ca"
+  },
+  "name": "Arunya",
+  "rollno": "55",
+  "marks": {
+    "chm": "10",
+    "phy": "20",
+    "bio": "30"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cd2d32b2164277b62710cb"
+  },
+  "name": "Joseph",
+  "rollno": "55",
+  "marks": {
+    "chm": "19",
+    "phy": "20",
+    "bio": "30"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cd2d32b2164277b62710cc"
+  },
+  "name": "Anna",
+  "rollno": "60",
+  "marks": {
+    "chm": "11",
+    "phy": "20",
+    "bio": "30"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cd2d32b2164277b62710cd"
+  },
+  "name": "Ajmal",
+  "rollno": "61",
+  "marks": {
+    "chm": "10",
+    "phy": "20",
+    "bio": "30"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cd2d32b2164277b62710ce"
+  },
+  "name": "Aparna",
+  "rollno": "65",
+  "marks": {
+    "chm": "10",
+    "phy": "20",
+    "bio": "30"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cd2d32b2164277b62710cf"
+  },
+  "name": "Ajay",
+  "rollno": "70",
+  "marks": {
+    "chm": "80",
+    "phy": "20",
+    "bio": "30"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cd2d32b2164277b62710d0"
+  },
+  "name": "Anusha",
+  "rollno": "68",
+  "marks": {
+    "chm": "10",
+    "phy": "20",
+    "bio": "30"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cd2d32b2164277b62710d1"
+  },
+  "name": "Anila",
+  "rollno": "69",
+  "marks": {
+    "chm": "90",
+    "phy": "20",
+    "bio": "30"
+  }
+}]
